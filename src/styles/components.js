@@ -171,7 +171,7 @@ export const StyledProducts = styled.div`
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
     p {
       margin: 0;
-      color: ${colors.green};
+      // color: ${colors.green};
       font-weight: 500;
       font-size: 1.2rem;
     }
